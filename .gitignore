@@ -1,4 +1,6 @@
 build
 *.txt
 *.img
+*.iso
+*.tgz
 bin
